@@ -1,4 +1,6 @@
 baseurl                 = "https://shiggan.github.io/mad.geek.nz/"
+RelativeURLs            =true
+CanonifyURLs            =true
 DefaultContentLanguage  = "en"
 title                   = "Hugo Future Imperfect Slim"
 theme                   = "hugo-future-imperfect-slim"
