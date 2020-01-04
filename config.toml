@@ -1,4 +1,4 @@
-baseurl                 = "https://example.com/"
+baseurl                 = "https://shiggan.github.io/mad.geek.nz/"
 DefaultContentLanguage  = "en"
 title                   = "Hugo Future Imperfect Slim"
 theme                   = "hugo-future-imperfect-slim"
