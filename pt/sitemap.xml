@@ -3,235 +3,235 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/pt/blog/</loc>
+    <loc>https://shiggan.github.io/mad.geek.nz/pt/blog/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/blog/"
+                href="https://shiggan.github.io/mad.geek.nz/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/blog/"
+                href="https://shiggan.github.io/mad.geek.nz/de/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/blog/"
+                href="https://shiggan.github.io/mad.geek.nz/fr/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.com/pl/blog/"
+                href="https://shiggan.github.io/mad.geek.nz/pl/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/blog/"
+                href="https://shiggan.github.io/mad.geek.nz/pt/blog/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/pt/categories/</loc>
+    <loc>https://shiggan.github.io/mad.geek.nz/pt/categories/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://shiggan.github.io/mad.geek.nz/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/categories/"
+                href="https://shiggan.github.io/mad.geek.nz/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/"
+                href="https://shiggan.github.io/mad.geek.nz/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.com/pl/categories/"
+                href="https://shiggan.github.io/mad.geek.nz/pl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/categories/"
+                href="https://shiggan.github.io/mad.geek.nz/pt/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/pt/blog/creating-a-new-theme/</loc>
+    <loc>https://shiggan.github.io/mad.geek.nz/pt/blog/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/blog/creating-a-new-theme/"
+                href="https://shiggan.github.io/mad.geek.nz/blog/creating-a-new-theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/blog/creating-a-new-theme/"
+                href="https://shiggan.github.io/mad.geek.nz/fr/blog/creating-a-new-theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/blog/creating-a-new-theme/"
+                href="https://shiggan.github.io/mad.geek.nz/de/blog/creating-a-new-theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.com/pl/blog/creating-a-new-theme/"
+                href="https://shiggan.github.io/mad.geek.nz/pl/blog/creating-a-new-theme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/blog/creating-a-new-theme/"
+                href="https://shiggan.github.io/mad.geek.nz/pt/blog/creating-a-new-theme/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/pt/categories/hugo/</loc>
+    <loc>https://shiggan.github.io/mad.geek.nz/pt/categories/hugo/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/hugo/"
+                href="https://shiggan.github.io/mad.geek.nz/categories/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/categories/hugo/"
+                href="https://shiggan.github.io/mad.geek.nz/de/categories/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/hugo/"
+                href="https://shiggan.github.io/mad.geek.nz/fr/categories/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.com/pl/categories/hugo/"
+                href="https://shiggan.github.io/mad.geek.nz/pl/categories/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/categories/hugo/"
+                href="https://shiggan.github.io/mad.geek.nz/pt/categories/hugo/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/pt/</loc>
+    <loc>https://shiggan.github.io/mad.geek.nz/pt/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://shiggan.github.io/mad.geek.nz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/"
+                href="https://shiggan.github.io/mad.geek.nz/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/"
+                href="https://shiggan.github.io/mad.geek.nz/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.com/pl/"
+                href="https://shiggan.github.io/mad.geek.nz/pl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/"
+                href="https://shiggan.github.io/mad.geek.nz/pt/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/pt/about/</loc>
+    <loc>https://shiggan.github.io/mad.geek.nz/pt/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/about/"
+                href="https://shiggan.github.io/mad.geek.nz/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.com/pl/about/"
+                href="https://shiggan.github.io/mad.geek.nz/pl/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/about/"
+                href="https://shiggan.github.io/mad.geek.nz/fr/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/about/"
+                href="https://shiggan.github.io/mad.geek.nz/pt/about/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/pt/contact/</loc>
+    <loc>https://shiggan.github.io/mad.geek.nz/pt/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/contact/"
+                href="https://shiggan.github.io/mad.geek.nz/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/contact/"
+                href="https://shiggan.github.io/mad.geek.nz/fr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.com/pl/contact/"
+                href="https://shiggan.github.io/mad.geek.nz/pl/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/contact/"
+                href="https://shiggan.github.io/mad.geek.nz/de/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/contact/"
+                href="https://shiggan.github.io/mad.geek.nz/pt/contact/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/pt/tags/</loc>
+    <loc>https://shiggan.github.io/mad.geek.nz/pt/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://shiggan.github.io/mad.geek.nz/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://example.com/de/tags/"
+                href="https://shiggan.github.io/mad.geek.nz/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/"
+                href="https://shiggan.github.io/mad.geek.nz/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.com/pl/tags/"
+                href="https://shiggan.github.io/mad.geek.nz/pl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://example.com/pt/tags/"
+                href="https://shiggan.github.io/mad.geek.nz/pt/tags/"
                 />
   </url>
   
