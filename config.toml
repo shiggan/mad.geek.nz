@@ -36,7 +36,7 @@ disableLanguages        = [""]
     # Sets the meta tag description
     description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
     # Sets the meta tag author
-    author              = "Steven Higgan "
+    author              = "Steven Higgan"
     # If you would like to add more comprehensive favicon support passed root
     # directory favicon.ico, utlize this funtion. It is recommened to use
     # https://realfavicongenerator.net to generate your icons as that is the basis
@@ -131,7 +131,7 @@ disableLanguages        = [""]
     weight            = 3
 
   [[menu.main]]
-    name              = "C.V."
+    name              = "Curriculum Vitae"
     identifier        = "cv"
     url               = "/cv/"
     pre               = "<i class='fas fa-file-contract'></i>"
