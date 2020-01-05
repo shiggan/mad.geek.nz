@@ -30,7 +30,7 @@ disableLanguages        = [""]
   # Sets which Social Share links appear in posts.
   # Options are twitter, facebook, reddit, linkedin, pinterest, email
   #socialShare           = ["twitter", "facebook", "reddit", "linkedin", "pinterest", "email"]
-  socialShare           = ["twitter", "facebook", "reddit"]
+  socialShare           = [""]
 
   [params.meta]
     # Sets the meta tag description
@@ -49,7 +49,7 @@ disableLanguages        = [""]
 
   [params.header]
     # Sets the navbarTitle that appears in the top left of the navigation bar
-    navbarTitle         = "Future Imperfect"
+    navbarTitle         = "Home"
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = true
     searchMenu          = true
