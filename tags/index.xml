@@ -6,9 +6,28 @@
     <description>Recent content in Tags on mad.geek.nz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 05 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shiggan.github.io/mad.geek.nz/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>tag a</title>
+      <link>https://shiggan.github.io/mad.geek.nz/tags/tag-a/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shiggan.github.io/mad.geek.nz/tags/tag-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag b</title>
+      <link>https://shiggan.github.io/mad.geek.nz/tags/tag-b/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shiggan.github.io/mad.geek.nz/tags/tag-b/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

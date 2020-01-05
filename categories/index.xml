@@ -6,44 +6,26 @@
     <description>Recent content in Categories on mad.geek.nz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shiggan.github.io/mad.geek.nz/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Markdown</title>
-      <link>https://shiggan.github.io/mad.geek.nz/categories/markdown/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <title>category a</title>
+      <link>https://shiggan.github.io/mad.geek.nz/categories/category-a/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://shiggan.github.io/mad.geek.nz/categories/markdown/</guid>
+      <guid>https://shiggan.github.io/mad.geek.nz/categories/category-a/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>https://shiggan.github.io/mad.geek.nz/categories/hugo/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>category b</title>
+      <link>https://shiggan.github.io/mad.geek.nz/categories/category-b/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://shiggan.github.io/mad.geek.nz/categories/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go</title>
-      <link>https://shiggan.github.io/mad.geek.nz/categories/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://shiggan.github.io/mad.geek.nz/categories/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jekyll</title>
-      <link>https://shiggan.github.io/mad.geek.nz/categories/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://shiggan.github.io/mad.geek.nz/categories/jekyll/</guid>
+      <guid>https://shiggan.github.io/mad.geek.nz/categories/category-b/</guid>
       <description></description>
     </item>
     
