@@ -1,13 +1,13 @@
 baseurl                 = "https://shiggan.github.io/mad.geek.nz/"
-RelativeURLs            =true
-CanonifyURLs            =true
+RelativeURLs            = true
+CanonifyURLs            = true
 DefaultContentLanguage  = "en"
-title                   = "Hugo Future Imperfect Slim"
+title                   = "mad.geek.nz"
 theme                   = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
 paginate                = 3
 disqusShortname         = ""
-googleAnalytics         = ""
+googleAnalytics         = "UA-155313800-1"
 pluralizeListTitles     = false
 disableLanguages        = [""]
 
@@ -21,22 +21,22 @@ disableLanguages        = [""]
   jsFiles               = ["default"]
   # Sets options for highlight.js
   highlightjs           = true
-  highlightjsTheme      = "github"
-  highlightjsLang       = ["html", "css", "js", "toml"]
+  highlightjsTheme      = "Vs 2015"
+  highlightjsLang       = ["html", "css", "js", "toml", "cs" ]
   # Sets where "View More Posts" links to
   viewMorePostsLink     = "/blog/"
   # Activate Estimated Reading Times, which appear in the post headers
   readingTime           = true
   # Sets which Social Share links appear in posts.
   # Options are twitter, facebook, reddit, linkedin, pinterest, email
-  socialShare           = ["twitter", "facebook", "reddit", "linkedin",
-                          "pinterest", "email"]
+  #socialShare           = ["twitter", "facebook", "reddit", "linkedin", "pinterest", "email"]
+  socialShare           = ["twitter", "facebook", "reddit"]
 
   [params.meta]
     # Sets the meta tag description
     description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
     # Sets the meta tag author
-    author              = "HTML5UP and Hugo"
+    author              = "Steven Higgan "
     # If you would like to add more comprehensive favicon support passed root
     # directory favicon.ico, utlize this funtion. It is recommened to use
     # https://realfavicongenerator.net to generate your icons as that is the basis
@@ -59,8 +59,8 @@ disableLanguages        = [""]
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
-    header                = "Hugo Future Imperfect Slim"
-    paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
+    header                = "mad.geek.nz"
+    paragraph             = "... something something inspirational but not too trite should go here."
     rssIntro              = true
     socialIntro           = true
 
@@ -71,10 +71,10 @@ disableLanguages        = [""]
       # Masks image in a certain shape. Supported are circle, triangle, diamond, and hexagon.
       shape               = "circle"
       width               = ""
-      alt                 = "Hugo Future Imperfect Slim"
+      alt                 = "the mad geek"
 
   [params.sidebar]
-    about               = "test"
+    about               = "cofee, software, photography, random stuff"
     # Sets the number of recent posts to show in the sidebar. The default value is 5.
     postAmount          = 5
     # set to show or to hide categories in the sidebar
@@ -164,30 +164,30 @@ disableLanguages        = [""]
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github                = "pacollins/hugo-future-imperfect-slim"
+  github                = "shiggan"
   gitlab                = ""
-  stackoverflow         = "" # User Number
+  stackoverflow         = "114610" # User Number
   bitbucket             = ""
   jsfiddle              = ""
   codepen               = ""
   # Visual Art Communities
   deviantart            = ""
-  flickr                = "example"
+  flickr                = ""
   behance               = ""
   dribbble              = ""
   # Publishing Communities
   wordpress             = ""
   medium                = ""
   # Professional/Business Oriented Communities
-  linkedin              = "example"
-  linkedin_company      = "examplebusiness"
+  linkedin              = "steven-higgan-11702747"
+  linkedin_company      = ""
   foursquare            = ""
   xing                  = ""
   slideshare            = ""
   # Social Networks
-  facebook              = "example"
+  facebook              = ""
   googleplus            = ""
-  reddit                = "example"
+  reddit                = ""
   quora                 = ""
   youtube               = ""
   vimeo                 = ""
@@ -195,18 +195,18 @@ disableLanguages        = [""]
     # WeChat and QQ need testing.
     wechat              = ""
     qq                  = "" # User ID Number
-  instagram             = "example"
+  instagram             = ""
   tumblr                = ""
-  twitter               = "example"
+  twitter               = "SHiggan"
   skype                 = ""
   snapchat              = ""
-  pinterest             = "example"
-  telegram              = "example"
+  pinterest             = ""
+  telegram              = ""
   vine                  = ""
   googlescholar         = ""
   orcid                 = ""
-  researchgate          = "example"
-  keybase               = "example"
-  mastodon              = "example.com/@example"
+  researchgate          = ""
+  keybase               = "madgeek"
+  mastodon              = ""
   # Email
-  email                 = "example"
+  email                 = "stevenh@mad.geek.nz"
