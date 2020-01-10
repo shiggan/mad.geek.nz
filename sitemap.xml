@@ -3,27 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://shiggan.github.io/mad.geek.nz/blog/2020-01-05-hello-world/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://shiggan.github.io/mad.geek.nz/blog/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiggan.github.io/mad.geek.nz/categories/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiggan.github.io/mad.geek.nz/categories/category-a/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiggan.github.io/mad.geek.nz/categories/category-b/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,22 +13,12 @@
   </url>
   
   <url>
+    <loc>https://shiggan.github.io/mad.geek.nz/blog/2020/01/hello-world/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://shiggan.github.io/mad.geek.nz/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiggan.github.io/mad.geek.nz/tags/tag-a/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiggan.github.io/mad.geek.nz/tags/tag-b/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://shiggan.github.io/mad.geek.nz/tags/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,7 +28,15 @@
   </url>
   
   <url>
+    <loc>https://shiggan.github.io/mad.geek.nz/categories/</loc>
+  </url>
+  
+  <url>
     <loc>https://shiggan.github.io/mad.geek.nz/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://shiggan.github.io/mad.geek.nz/tags/</loc>
   </url>
   
 </urlset>

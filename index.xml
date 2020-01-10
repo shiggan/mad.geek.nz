@@ -12,12 +12,15 @@
     
     
     <item>
-      <title>Hello World </title>
-      <link>https://shiggan.github.io/mad.geek.nz/blog/2020-01-05-hello-world/</link>
+      <title>Hello World</title>
+      <link>https://shiggan.github.io/mad.geek.nz/blog/2020/01/hello-world/</link>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://shiggan.github.io/mad.geek.nz/blog/2020-01-05-hello-world/</guid>
-      <description>Introduction sup bro</description>
+      <guid>https://shiggan.github.io/mad.geek.nz/blog/2020/01/hello-world/</guid>
+      <description>The inaugural &amp;lsquo;first post&amp;rsquo;; literally nothing much to see untill some actual content is pushed in.
+One of my favorate technical people has this saying:
+ There are a finite number of keystrokes left in your hands before you die. - @shanselman
+ That is what this site is about &amp;hellip; well that and that I freely admit to being lazy; just ask yourself how many times have you googled the same damned thing you did some time ago having to re click-through all of the random pages in order to groc (hopefully) most of the context you got last time in order to move on with a piece of work.</description>
     </item>
     
   </channel>
