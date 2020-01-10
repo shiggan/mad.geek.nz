@@ -14,4 +14,6 @@ draft = false
 
 +++
 
-sup bro
+The inaugural 'first post'; literally nothing much to see untill some actual content is pushed in
+
+chur
