@@ -22,3 +22,6 @@ Build
 ```
 .\build-push.cmd
 ```
+
+Loyalty free images
+(https://pixabay.com/)[https://pixabay.com/]
