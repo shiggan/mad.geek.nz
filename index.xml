@@ -6,10 +6,20 @@
     <description>Recent content on mad.geek.nz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shiggan.github.io/mad.geek.nz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Getting Started Hugo 1 of 3</title>
+      <link>https://shiggan.github.io/mad.geek.nz/blog/2020/01/getting-started-hugo-1-of-3/</link>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shiggan.github.io/mad.geek.nz/blog/2020/01/getting-started-hugo-1-of-3/</guid>
+      <description>This will be the first post in a short series about getting started with hugo. By the end of this you will have a dead simple proof of concept site which we will build on in later posts.
+Static site generators such as Hugo are great for sites that don’t have any particular reason for dynamic (database driven) content; or for simple sites where the &amp;lsquo;dynamic&amp;rsquo; content you do have rarely changes.</description>
+    </item>
     
     <item>
       <title>Hello World</title>

@@ -6,9 +6,28 @@
     <description>Recent content in Categories on mad.geek.nz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sat, 25 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shiggan.github.io/mad.geek.nz/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>getting started</title>
+      <link>https://shiggan.github.io/mad.geek.nz/categories/getting-started/</link>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shiggan.github.io/mad.geek.nz/categories/getting-started/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://shiggan.github.io/mad.geek.nz/categories/hugo/</link>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shiggan.github.io/mad.geek.nz/categories/hugo/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -4,7 +4,42 @@
   
   <url>
     <loc>https://shiggan.github.io/mad.geek.nz/blog/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiggan.github.io/mad.geek.nz/categories/</loc>
+    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiggan.github.io/mad.geek.nz/tags/choco/</loc>
+    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiggan.github.io/mad.geek.nz/categories/getting-started/</loc>
+    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiggan.github.io/mad.geek.nz/categories/hugo/</loc>
+    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiggan.github.io/mad.geek.nz/blog/2020/01/getting-started-hugo-1-of-3/</loc>
+    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiggan.github.io/mad.geek.nz/</loc>
+    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shiggan.github.io/mad.geek.nz/tags/</loc>
+    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -18,25 +53,12 @@
   </url>
   
   <url>
-    <loc>https://shiggan.github.io/mad.geek.nz/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://shiggan.github.io/mad.geek.nz/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shiggan.github.io/mad.geek.nz/categories/</loc>
-  </url>
-  
-  <url>
     <loc>https://shiggan.github.io/mad.geek.nz/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://shiggan.github.io/mad.geek.nz/tags/</loc>
   </url>
   
 </urlset>
