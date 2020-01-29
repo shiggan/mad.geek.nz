@@ -16,16 +16,12 @@ draft = false
 
 This will be the first post in a short series about getting started with hugo. By the end of this you will have a _dead simple_ proof of concept site which we will build on in later posts.
 
-Parts
-- [Part 1 (this post)](/blog/2020/01/getting-started-hugo-1-of-3/)
-- [Part 2](/blog/2020/01/getting-started-hugo-2-of-3/)
-- [Part 3](/blog/2020/01/getting-started-hugo-3-of-3/)
 
-Static site generators such as Hugo are great for sites that dont have any particular reason for dynamic (database driven) content; or for simple sites where the 'dynamic' content you do have rarely changes.
+Static site generators such as Hugo are great for sites that don’t have any particular reason for dynamic (database driven) content; or for simple sites where the 'dynamic' content you do have rarely changes.
 
-For my site, using a static site generator is ideal as the content itself can be hosted on platforms such as Github Pages Azure Blob Storage; and is reletavely straight forward to add content. I dont want to deal with things like frameworks, databases, security, all I want to do is serve up hypertext and css so out of pure lazyness and an endless number of *my own blogging-frameworks* (all of which will never reach the light of github) because lets face it KISS and YAGNI.
+For my site, using a static site generator is ideal as the content itself can be hosted on platforms such as Github Pages Azure Blob Storage; and is relatively straight forward to add content. I don’t want to deal with things like frameworks, databases, security, all I want to do is serve up hypertext and css so out of pure laziness and an endless number of *my own blogging-frameworks* (all of which will never reach the light of github) because lets face it KISS and YAGNI.
 
-This site is hosted on Github; mostly known for the hosting of Git Repositories, I wanted something simple which automated the publishing of changes (this is where Github Pages comes in), easealy configurable with a custom domain and preferably a ssl free certificate, so here we go.
+This site is hosted on Github; mostly known for the hosting of Git Repositories, I wanted something simple which automated the publishing of changes (this is where Github Pages comes in), easily configurable with a custom domain and preferably a ssl free certificate, so here we go.
 
 ## Setup on Windows via Chocklaty
 
