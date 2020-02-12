@@ -2,7 +2,7 @@
 author = "the mad geek"
 categories = ["getting started", "hugo"]
 #tags = ["hugo-templates"]
-date = "2020-02-13"
+date = "2020-02-11"
 description = "" 
 featured = "getting started hugo - 2 of 3/featured.jpg" ## reletave to /static/img/YYYY/MM
 featuredalt = "https://pixabay.com/photos/newborn-hand-tiny-finger-4748020/"
