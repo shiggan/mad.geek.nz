@@ -6,10 +6,21 @@
     <description>Recent content on mad.geek.nz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shiggan.github.io/mad.geek.nz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Getting Started Hugo 2 of 3</title>
+      <link>https://shiggan.github.io/mad.geek.nz/blog/2020/02/getting-started-hugo-2-of-3/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shiggan.github.io/mad.geek.nz/blog/2020/02/getting-started-hugo-2-of-3/</guid>
+      <description>Picking up from last time we have a dirt simple hugo site; applying a simple theme, now we are going to maake a couple of customisations to the template.
+Wild Assumptions You have a Google Analytics (GA) account; ready to go.
+Background Information Partial templates have a specific lookup order (see the official documentation on Partials for details); tldr Hugo will look in the &amp;lsquo;local&amp;rsquo; directory first then the theme directory e.</description>
+    </item>
     
     <item>
       <title>Getting Started Hugo 1 of 3</title>
