@@ -1,7 +1,7 @@
 +++
 author = "the mad geek"
 categories = ["getting started", "hugo"]
-#tags = ["choco"]
+tags = ["choco"]
 date = "2020-01-25"
 description = "This will be the first post in a short series about getting started with hugo. By the end of this you will have a _dead simple_ proof of concept site which we will build on in later posts." 
 featured = "getting started hugo - 1 of 3/featured.jpg" ## reletave to /static/img/YYYY/MM
@@ -16,6 +16,8 @@ draft = false
 
 This will be the first post in a short series about getting started with hugo. By the end of this you will have a _dead simple_ proof of concept site which we will build on in later posts.
 
+Next in this series
+- [Getting Started Hugo 2 of 3](/blog/2020/02/getting-started-hugo-2-of-3)
 
 Static site generators such as Hugo are great for sites that don’t have any particular reason for dynamic (database driven) content; or for simple sites where the 'dynamic' content you do have rarely changes.
 
