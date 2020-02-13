@@ -6,10 +6,21 @@
     <description>Recent content in Blog on mad.geek.nz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shiggan.github.io/mad.geek.nz/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Getting Started Hugo 3 of 3</title>
+      <link>https://shiggan.github.io/mad.geek.nz/blog/2020/02/getting-started-hugo-3-of-3/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shiggan.github.io/mad.geek.nz/blog/2020/02/getting-started-hugo-3-of-3/</guid>
+      <description>Picking up from last time we have a site that runs fine locally; now its time to throw it up on github; there are however a couple of gotchas.
+Github Pages likes to serve up a branch; and hugo likes to publish to a folder. Thanks to a git trick below we will be able to do both.
+So we have our demo site we have been working on; time to put that to a side for now (you can set it on fire later) we are going to step through the process to get a hugo site served up and running on Github Pages.</description>
+    </item>
     
     <item>
       <title>Getting Started Hugo 2 of 3</title>
@@ -18,7 +29,8 @@
       
       <guid>https://shiggan.github.io/mad.geek.nz/blog/2020/02/getting-started-hugo-2-of-3/</guid>
       <description>Picking up from last time we have a dirt simple hugo site; applying a simple theme, now we are going to maake a couple of customisations to the template.
-Wild Assumptions You have a Google Analytics (GA) account; ready to go.
+Next in this series
+ Getting Started Hugo 3 of 3  Wild Assumptions You have a Google Analytics (GA) account; ready to go.
 Background Information Partial templates have a specific lookup order (see the official documentation on Partials for details); tldr Hugo will look in the &amp;lsquo;local&amp;rsquo; directory first then the theme directory e.</description>
     </item>
     
@@ -30,7 +42,7 @@ Background Information Partial templates have a specific lookup order (see the o
       <guid>https://shiggan.github.io/mad.geek.nz/blog/2020/01/getting-started-hugo-1-of-3/</guid>
       <description>This will be the first post in a short series about getting started with hugo. By the end of this you will have a dead simple proof of concept site which we will build on in later posts.
 Next in this series
- Getting Started Hugo 2 of 3  Static site generators such as Hugo are great for sites that don’t have any particular reason for dynamic (database driven) content; or for simple sites where the &amp;lsquo;dynamic&amp;rsquo; content you do have rarely changes.</description>
+ Getting Started Hugo 2 of 3 Getting Started Hugo 3 of 3  Static site generators such as Hugo are great for sites that don’t have any particular reason for dynamic (database driven) content; or for simple sites where the &amp;lsquo;dynamic&amp;rsquo; content you do have rarely changes.</description>
     </item>
     
     <item>
