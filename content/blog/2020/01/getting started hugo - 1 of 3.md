@@ -18,6 +18,7 @@ This will be the first post in a short series about getting started with hugo. B
 
 Next in this series
 - [Getting Started Hugo 2 of 3](/blog/2020/02/getting-started-hugo-2-of-3)
+- [Getting Started Hugo 3 of 3](/blog/2020/02/getting-started-hugo-3-of-3)
 
 Static site generators such as Hugo are great for sites that don’t have any particular reason for dynamic (database driven) content; or for simple sites where the 'dynamic' content you do have rarely changes.
 
