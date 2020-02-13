@@ -16,6 +16,9 @@ draft = false
 
 Picking up from [last time](/blog/2020/01/getting-started-hugo-1-of-3) we have a dirt simple hugo site; applying a simple theme, now we are going to maake a couple of customisations to the template.
 
+Next in this series
+- [Getting Started Hugo 3 of 3](/blog/2020/02/getting-started-hugo-3-of-3)
+
 # Wild Assumptions
 
 You have a Google Analytics (GA) account; ready to go.
