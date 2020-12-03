@@ -5,6 +5,8 @@ fields:
 - type: text
   name: author
   label: author
+  hidden: true
+  default: the mad geek
 - type: list
   name: categories
   label: categories
@@ -20,18 +22,26 @@ fields:
 - type: file
   name: featured
   label: featured
+  description: reletave to /static/img/YYYY/MM
 - type: text
   name: featuredalt
   label: featuredalt
+  hidden: true
 - type: text
   name: featuredpath
   label: featuredpath
+  hidden: true
+  default: date
 - type: text
   name: linktitle
   label: linktitle
+  hidden: false
+  default: Link Title
 - type: text
   name: title
   label: title
 - type: text
   name: type
   label: type
+  hidden: true
+  default: post
