@@ -45,3 +45,5 @@ fields:
   label: type
   hidden: true
   default: post
+pages:
+- content/blog/2020/03/mediatr-awesomesauce.md
