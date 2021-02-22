@@ -47,3 +47,4 @@ fields:
   default: post
 pages:
 - content/blog/2020/03/mediatr-awesomesauce.md
+- content/blog/the-problem-with-interviews.md
